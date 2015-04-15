@@ -138,7 +138,41 @@ races : [
   "African","Arab","Brazilian","British","Chinese","Egyptian","Filipino",
   "French","German","Hispanic","Indian","Italian","Japanese","Korean","Malay",
   "Scottish","Pakistani","Persian","Portugese","Russian","Spanish","Sri Lankan",
-  "Thai","Turkish","Other"
+  "Thai","Turkish"
+],
+
+sports : [
+  "Athletics","Australian Football","Archery","Aquatics","Bat Tennis",
+  "Badminton","Baseball","Basketball","Bowling","Boxing","Biathlon","Bobsleigh",
+  "Cricket","Cycling","Canoe","Curling","Climbing","Cheerleading",
+  "Cross Country","Diving","Dancing","Equestrian","Footy","Football","Fencing",
+  "Floor Hockey","Gymnastics","Golf","Grass Hockey","Horse Racing","Hockey",
+  "High Jump","Handball","International Rules","Irish Football",
+  "Ice Hockey,Ice Skating","Judo","Karate","Kayak","Lawn Bowls","Long Jump",
+  "Luge","Lacrosse","Motor Bike Racing","Mountain Bike Racing",
+  "Modern Pentathlon","Netball","Newcombe","National Basketball",
+  "National Rugby","Orientating","Parrot Shooting","Pole Vault","Para-Olympics",
+  "Ping Pong","Powerboating","Parachutting","Polo Quiots","Rugby","Running",
+  "Rowing","Roller-skating","Skating","Soccer","Squash","Swimming","Sailing",
+  "Shooting","Skiing","Surfing","Softball","Sumo","Tennis","Triple Jump",
+  "Table Tennis","Taekwondow","Triathlon","Tug of War","Tenpin",
+  "Underwater Polo","Volleyball","Winter Sports","Wrestling","Water-polo",
+  "Weightlifting","Water Ski","Wushu","Xtreme Sports","Yoga","Yuio-Fighting",
+  "Zebra Racing"
+],
+
+olympicSports : [
+  "Archery","Artistic","Athletics","Badminton","Baseball","Basketball",
+  "Basque pelota","BMX","Boxing","Canoe/kayak (slalom)","Canoe/kayak (sprint)",
+  "Cricket","Croquet","Diving","Equestrian / Dressage","Equestrian / Eventing",
+  "Equestrian / Jumping","Equestrian / Vaulting","Fencing","Field hockey",
+  "Figure skating","Football","Freestyle","Golf","Greco-Roman","Handball",
+  "Ice hockey","Jeu de paume","Judo","Lacrosse","Modern pentathlon",
+  "Mountain biking","Polo","Rackets","Rhythmic","Road cycling","Roque","Rowing",
+  "Rugby sevens","Rugby union","Sailing","Shooting","Softball","Swimming",
+  "Synchronized swimming","Table tennis","Taekwondo","Tennis","Track cycling",
+  "Trampoline","Triathlon","Tug of war","Volleyball (beach)",
+  "Volleyball (indoor)","Water motorsports","Water polo","Weightlifting"
 ]
 
 };
