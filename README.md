@@ -1,5 +1,5 @@
 # listhings
-List of things package for meteor (countries, nationalities, etc)
+List of things package for meteor (countries, nationalities, etc). Feel free to make pull requests for corrections and new lists.
 
 # Available lists
 
